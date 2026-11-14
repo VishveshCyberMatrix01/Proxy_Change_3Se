@@ -18,3 +18,20 @@ Drawn by the Claude desktop and mobile apps; terminals and editors keep their ow
 ## Using it
 
 Load it for one session with `claude --plugin-dir claude-mods/cybernetrix-dark`.
+
+## Install
+
+In the Claude desktop app: click **+** next to the prompt box, then **Plugins**, **Add marketplace**
+with `VishveshCyberMatrix01/Proxy_Change_3Se`, then **Add plugin**.
+
+At the prompt of a terminal session (answer `y` to add the marketplace, then pick a scope):
+
+```
+/plugin install cybernetrix-dark --marketplace VishveshCyberMatrix01/Proxy_Change_3Se
+```
+
+From a shell:
+
+```bash
+claude plugin install cybernetrix-dark --marketplace VishveshCyberMatrix01/Proxy_Change_3Se
+```

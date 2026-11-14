@@ -1,0 +1,14 @@
+{
+  "name": "cybernetrix",
+  "description": "Claude Code mods from this repository.",
+  "owner": {
+    "name": "VishveshCyberMatrix01"
+  },
+  "plugins": [
+    {
+      "name": "cybernetrix-dark",
+      "source": "./claude-mods/cybernetrix-dark",
+      "description": "CyberNetrix Dark: a cozy night-mode look fusing cyber security and AI, with a drifting neural-network backdrop."
+    }
+  ]
+}
